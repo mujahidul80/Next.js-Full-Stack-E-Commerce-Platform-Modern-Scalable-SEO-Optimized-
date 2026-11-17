@@ -107,7 +107,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 👤 Author & Contact
 
 **Developed by Mujahidul Islam**
-* 💬 **WhatsApp:** [+880 1571-432927](https://wa.me/8801571432927) (Click to chat)
+* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801571432927)
 * 🔗 **GitHub:** [@mujahidul80](https://github.com/mujahidul80)
 * 🌐 **Website / Blog:** [mujahidulib.blogspot.com](https://mujahidulib.blogspot.com)
 
