@@ -49,7 +49,7 @@ A premium, production-ready e-commerce solution built with the latest **Next.js 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/imranbru99/Next.js-Full-Stack-E-Commerce-Platform-Modern-Scalable-SEO-Optimized-.git](https://github.com/imranbru99/Next.js-Full-Stack-E-Commerce-Platform-Modern-Scalable-SEO-Optimized-.git)
+    git clone https://github.com/mujahidul80/Next.js-Full-Stack-E-Commerce-Platform-Modern-Scalable-SEO-Optimized-.git
     cd Next.js-Full-Stack-E-Commerce-Platform-Modern-Scalable-SEO-Optimized-
     ```
 
@@ -104,15 +104,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 👨‍💻 Developed By
+## 👤 Author & Contact
 
-**Imran Ahmed** *Senior Full-Stack Developer | 9+ Years Experience* Specializing in AI-Driven Solutions, Scalable E-Commerce Architectures, and Modern Web Systems.
-
----
-
-### 🛠️ NEED A FIX? CONTACT ME:
-* 🌐 **Portfolio:** [imrandev.space](https://imrandev.space)
-* 📧 **Email:** [me@imrandev.space](mailto:me@imrandev.space)
-* 📞 **WhatsApp:** [+8801576918420](https://wa.me/8801576918420)
+**Developed by Mujahidul Islam**
+* 💬 **WhatsApp:** [+880 1571-432927](https://wa.me/8801571432927) (Click to chat)
+* 🔗 **GitHub:** [@mujahidul80](https://github.com/mujahidul80)
+* 🌐 **Website / Blog:** [mujahidulib.blogspot.com](https://mujahidulib.blogspot.com)
 
 **Note:** This platform was specifically designed to bridge the gap between online digital storefronts and physical retail management through a unified real-time database.
